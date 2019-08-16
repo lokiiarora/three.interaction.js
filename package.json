@@ -1,6 +1,6 @@
 {
-  "name": "three.interaction",
-  "version": "0.2.2",
+  "name": "@lokiiarora/three.interaction",
+  "version": "0.0.1",
   "description": "a interaction manager, serve the three.js, help you build a interactivity 3d-scene",
   "main": "./build/three.interaction.js",
   "module": "./build/three.interaction.module.js",
@@ -47,7 +47,7 @@
   },
   "homepage": "https://github.com/jasonChen1982/three.interaction.js#readme",
   "peerDependencies": {
-    "three": "^0.89.0"
+    "three": "^0.105.2"
   },
   "devDependencies": {
     "@pixi/jsdoc-template": "^2.2.0",
